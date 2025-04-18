@@ -15,7 +15,7 @@
 
 ## ⬇️ 下载指南
 
-访问 [Releases页面](https://github.com/yourusername/repository/releases) 获取最新预编译版本
+访问 [Releases页面](https://github.com/11201201/BRT/releases) 获取最新预编译版本
 
 支持系统：
 - Windows (x64/arm64)
@@ -32,8 +32,8 @@
 ## 🐛 问题反馈
 
 我们重视您的使用体验，请通过以下渠道反馈：
-- [GitHub Issues](https://github.com/yourusername/repository/issues)
-- 官方邮箱：support@example.com
+- [GitHub Issues](https://github.com/11201201/BRT/issues)
+- 官方邮箱：CQO@azuremedia.xyz
 
 提交报告时请包含：
 1. 操作系统版本
